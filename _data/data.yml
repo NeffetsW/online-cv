@@ -52,16 +52,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Passionate researcher in the field of bioresources and circular economy with a focus on food waste management. 
+      Strong academic background with more than 5 years of experience in the field of biowaste collection and treatment. 
+      Profound knowledge in waste management systems analysis, modelling of waste management concepts, waste treatment, 
+      business case development and environmental impact analysis. Enthusiastic about collaboration, communication and teaching.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MSc in Bioprocess engineering
+      university: Hamburg University of Technology
+      time: 2014 - 2017
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
