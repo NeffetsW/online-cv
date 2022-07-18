@@ -12,32 +12,32 @@ sidebar:
     avatar: Profilbild.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
-
+    email: steffen.walk@tuhh.de
+    phone: +4915777820589
+    citizenship: German
+    website: tuhh.de/aww
+    linkedin: steffen-walk-154b46112
+    researchgate: Steffen-Walk
+    OrcID: 0000-0003-3294-5052 
+    
+    
     languages:
-      - idiom: English
+      - idiom: German
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
       - idiom: Spanish
         level: Professional
+        
+      - idiom: French
+        level: Basic
+        
+      - idiom: Catalan
+        level: Basic
+        
+ 
 
     interests:
       - item: Climbing
