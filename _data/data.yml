@@ -39,13 +39,19 @@ sidebar:
  
 
     interests:
-      - item: Climbing
+      - item: Hiking
         link:
 
-      - item: Snowboarding
+      - item: Gardening
         link:
 
       - item: Cooking
+        link:
+        
+      - item: making music (guitar & piano)
+        link:
+        
+      - item: brewing beer
         link:
 
 career-profile:
