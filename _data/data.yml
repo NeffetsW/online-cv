@@ -66,9 +66,9 @@ education:
       details: | Bachelor Thesis: “Investigations on efficiency enhancement measures in the fermentation of biogas and purification to biomethane" (Grade: 1.0)
         
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Researcher & PhD student
+      time: 12/2017 -
+      company: Hamburg University of Technology, Institute of Wastewater Management and Water protection, Bioresource Management Group
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -81,9 +81,9 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Member of Separate Collection task group
+      time: 11/2020 - 
+      company: European Compost Network
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -92,9 +92,20 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Research Internship
+      time: 10/2016 - 05/2017
+      company: Universidad Adolfo Ibáñez, Facultad de Ingeniería y Ciencias, Santiago de Chile
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - role: Internship
+      time: 01/2014 - 05/2014
+      company: Infraserv GmbH & Co, Höchst KG, Frankfurt, Germany, Department of process engineering
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -110,25 +121,35 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Sustainable soils by quality compost with defined properties - SOILCOM
+        time: 02/2019 - 06/2023
+        link: "https://northsearegion.eu/soilcom/"
+        Information: INTERREG North Sea Region Programme ofthe European Commission. 11 partner organisations
+            
+      - title: A decentralised management scheme for innovative valorization of urban biowaste - DECISIVE
+        time: 09/2016 - 12/2021
+        link: "http://www.decisive2020.eu/"
+        Information: Horizon2020 programme of the European Commission, Grant Agreement number 689229. 14 partner organisations
+       
+      - title: Practical realisation of an innovative concept for efficient food waste collection
+        time: 03/2020 - 12/2021
+        link:
+        Information: Calls for Transfer programme of Hamburg Innovation, Grant Agreement number C4T319. 2 partner organisations
+        
+      - title: Degradation of waste collection bags made of biodegradable polymers
+        time: 07/2021 - 12/2022
+        link: 
+        Information: Calls for Transfer programme of Hamburg Innovation, Grant Agreement number C4T531. 3 partner organisations
+        
+      - title: Small-scale flexi-feed biorefineries - FLEXIBI
+        time: 05/2018 - 04/2021
+        link: 
+        Information: FACCE SURPLUS 2, BMBF, FKZ. Grant Agreement number 031B0610B. 6 partner organisations
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Biowaste Cycle - BioCycle
+        time: 01/2022 - 12/2022
+        link: "http://www.hoou.de/"
+        Information: Programme for the development of teaching and learning material of the Hamburg Open Online University (HOOU)  
 
 publications:
     title: Publications
@@ -156,23 +177,26 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: R
+        level: 65%
+
+      - name: Easetech LCA software
+        level: 50%
+
+      - name: STAN - Mass flow analysis
+        level: 90%
+
+      - name: Hedgedoc
+        level: 70%
+
+      - name: Miro
         level: 98%
+        
+      - name: Office (Word, Excel, Powerpoint, Visio, Publisher)
+        level: 98%   
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: GitHub
+        level: 33%
         
 volunteering:
 title: Volunteering 
